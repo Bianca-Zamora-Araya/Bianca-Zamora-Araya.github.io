@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Bianca"
+  name             : "Bianca Zamora Araya"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Estudiante de Ingeniería Civil Eléctrica (a veces, Matemática), con interés en temas de Astronomía y Física. Me gusta mucho aprender, y enseñar (:"
   location         : "Chile"
   employer         : "Universidad de Chile"
   uri              : # URL
