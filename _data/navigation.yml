@@ -9,10 +9,7 @@
 
 main:
   #- title: "Publications"
-  #  url: /publications/
-
-  - title: "Media"
-    url: /media/    
+  #  url: /publications/   
 
   - title: "Teaching"
     url: /teaching/    
@@ -25,6 +22,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Media"
+    url: /media/ 
     
   # - title: "CV"
   #   url: /cv-json/
