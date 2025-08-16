@@ -1,11 +1,11 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "pre-university course for high school student"
+permalink: https://www.u-cursos.cl/escverano/2022/2/COFM52/1/material_docente/
+venue: "Universdad de Chile, Facultad de Ciencias Físicas y Matemáticas"
+date: 2022-07
+location: "Santiago, Chile"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
