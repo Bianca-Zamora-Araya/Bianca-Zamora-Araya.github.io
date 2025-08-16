@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Bianca's Homepage"
+title                    : "Bianca's Homepage [work in progress]"
 title_separator          : "-"
 name                     : &name "Bianca Zamora Araya"
 description              : &description "personal description"
