@@ -9,7 +9,4 @@ author_profile: true
 ## Teaching Assistantships
 ---
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-## Teaching Assistantships2
----
-{% endfor %}
+  {% include archive-single.html %}{% endfor %}
