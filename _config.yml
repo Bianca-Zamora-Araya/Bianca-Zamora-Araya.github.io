@@ -264,6 +264,15 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  # _teachinginnovations
+  - scope:
+      path: ""
+      type: teachinginnovations
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
   # _publications
   - scope:
       path: ""
