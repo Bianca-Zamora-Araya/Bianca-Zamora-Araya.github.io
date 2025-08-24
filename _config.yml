@@ -221,6 +221,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  teachinginnovations:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
