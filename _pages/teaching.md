@@ -11,7 +11,6 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}{% endfor %}
 
-{% include base_path %}
 ## Teaching Innovation Grants
 ---
 {% for post in site.teachinginnovations reversed %}
