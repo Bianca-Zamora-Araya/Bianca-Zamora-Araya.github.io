@@ -14,12 +14,6 @@ Bianca has been actively involved in university teaching at FCFM, serving as a t
 In addition to her student and teaching assistant roles, Bianca has actively participated as a monitor in the [Escuela de Verano](https://www.edv.uchile.cl/#) (EdV) courses, ensuring the smooth execution of courses, supporting instructors, students, and the EdV teaching team, promoting the programs at vocational fairs and scientific outreach events, through social media videos, and managing inventory of materials. She has also contributed to faculty outreach initiatives as a monitor of [Difusión FCFM](http://instagram.com/ingenieria_ciencias_uchile/?hl=es), engaging in activities to promote engineering and science education within FCFM. Bianca has been involved with the faculty’s merchandising shop [Tienda Beauchef](https://tiendabeauchef.ing.uchile.cl/), promoting a sense of identity and belonging within the university community and contributing to sales, and logistical organization as a representant of the Beachefian comunnity. Additionally, she participates in [Electrotutores](https://cl.linkedin.com/company/electrotutores) as a tutor, acting as a liaison between students and professors of the Electrical Engineering Department, supporting teaching and student life activities, and promoting departmental events and communications. These experiences reflect her commitment to fostering learning, mentoring peers, and promoting scientific engagement across the university community.
 
 
-<a href='http://www.freevisitorcounters.com'>here</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1a747d9be52867dada4a12b731c64c2707e0e9e3'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1380367/t/4"></script>
-
-
-<div id="sfc8zql4kff1gg3t9dfup2xbp1hxs67jrk6"></div>
-<script type="text/javascript" src="https://counter1.optistats.ovh/private/counter.js?c=8zql4kff1gg3t9dfup2xbp1hxs67jrk6&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="free counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=8zql4kff1gg3t9dfup2xbp1hxs67jrk6" border="0" title="free counter" alt="free counter"></a></noscript>
-
-<script type="text/javascript" src="https://counter.websiteout.com/js/8/0/0/0"></script>
+<div id="sfc89dctj73yaz1np6uzmquy1xcdbruh82c"></div>
+<script type="text/javascript" src="https://counter1.optistats.ovh/private/counter.js?c=89dctj73yaz1np6uzmquy1xcdbruh82c&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free web counters"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=89dctj73yaz1np6uzmquy1xcdbruh82c" border="0" title="free web counters" alt="free web counters"></a></noscript>
