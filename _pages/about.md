@@ -17,3 +17,9 @@ In addition to her student and teaching assistant roles, Bianca has actively par
 <a href='http://www.freevisitorcounters.com'>here</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1a747d9be52867dada4a12b731c64c2707e0e9e3'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1380367/t/4"></script>
 
+
+<div id="sfc8zql4kff1gg3t9dfup2xbp1hxs67jrk6"></div>
+<script type="text/javascript" src="https://counter1.optistats.ovh/private/counter.js?c=8zql4kff1gg3t9dfup2xbp1hxs67jrk6&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=8zql4kff1gg3t9dfup2xbp1hxs67jrk6" border="0" title="free counter" alt="free counter"></a></noscript>
+
+
