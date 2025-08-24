@@ -13,5 +13,5 @@ author_profile: true
 
 ## Teaching Innovation Grants
 ---
-{% for post in site.teachinginnovation reversed %}
+{% for post in site.teachinginnovationS reversed %}
   {% include archive-single.html %}{% endfor %}
