@@ -22,4 +22,4 @@ In addition to her student and teaching assistant roles, Bianca has actively par
 <script type="text/javascript" src="https://counter1.optistats.ovh/private/counter.js?c=8zql4kff1gg3t9dfup2xbp1hxs67jrk6&down=async" async></script>
 <noscript><a href="https://www.freecounterstat.com" title="free counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=8zql4kff1gg3t9dfup2xbp1hxs67jrk6" border="0" title="free counter" alt="free counter"></a></noscript>
 
-
+<script type="text/javascript" src="https://counter.websiteout.com/js/8/0/0/0"></script>
