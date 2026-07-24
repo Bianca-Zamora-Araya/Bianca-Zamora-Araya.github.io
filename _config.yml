@@ -32,6 +32,13 @@ author:
   uri              : # URL
   email            : "hola.bianca.zamora.araya@gmail.com"
 
+  #sites
+  linkedin         : bianca-zamora-araya
+  youtube          : biancazamoraaraya
+  github           : bianca-zamora-araya
+  flickr           : bianca_zamora_araya
+  
+  
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
@@ -51,7 +58,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : bianca-zamora-araya
+  # github           : bianca-zamora-araya
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -65,7 +72,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : bianca-zamora-araya
+  # linkedin         : bianca-zamora-araya
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -78,9 +85,9 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : biancazamoraaraya
+  # youtube          : biancazamoraaraya
   zhihu            : # Username
-  flickr           : bianca_zamora_araya
+  # flickr           : bianca_zamora_araya
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
