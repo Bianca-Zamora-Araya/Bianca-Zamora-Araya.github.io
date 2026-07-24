@@ -232,6 +232,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  media:
+    output: true
+    permalink: /:collection/:path
   publications:
     output: true
     permalink: /:collection/:path/
@@ -267,6 +270,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _media
+  - scope:
+      path: ""
+      type: media
     values:
       layout: single
       author_profile: true
