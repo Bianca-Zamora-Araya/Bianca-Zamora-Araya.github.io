@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Bianca Zamora Araya"
 title_separator          : "•"
-name                     : &name "Bianca"
+name                     : &name "Bianca Zamora Araya"
 description              : &description "Bianca's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bianca-zamora-araya.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "bianca-zamora-araya/bianca-zamora-araya.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Bianca Zamora Araya"
+  name             : "Bianca"
   pronouns         : # example: "she/her"  
   bio              : "Electrical Engineering student (sometimes pursuing courses in Mathematical Engineering), interested in Astronomy and Physics topics. I really enjoy learning and sharing knowledge (: <br>I'm also active in science outreach and faculty admission activities!"
   location         : "Santiago, Chile"
