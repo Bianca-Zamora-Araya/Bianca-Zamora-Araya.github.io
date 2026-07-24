@@ -19,24 +19,36 @@
 </div>
 {% endif %} -->
 
-{% include base_path %}
+<!-- <div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}, <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
+</div> -->
 
 <!-- Bloque de redes sociales (solo logos) -->
-<div class="page__footer-follow">
+<!-- <div class="page__footer-follow">
   <ul class="social-icons">
     <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
     <li><a href="https://www.youtube.com/c/{{ site.author.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
     <li><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i></a></li>
     <li><a href="https://www.flickr.com/photos/{{ site.author.flickr }}" target="_blank" rel="noopener"><i class="fab fa-flickr" aria-hidden="true"></i></a></li>
   </ul>
-</div>
+</div> -->
 
 <!-- <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}, <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}<br />
+  <a href="/sitemap/">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
 </div> -->
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+    <li><a href="https://www.youtube.com/c/{{ site.author.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+    <li><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+    <li><a href="https://www.flickr.com/photos/{{ site.author.flickr }}" target="_blank" rel="noopener"><i class="fab fa-flickr" aria-hidden="true"></i></a></li>
+    <li><a href="/sitemap/">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a></li>
+  </ul>
+</div>
 
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}<br />
-  <a href="/sitemap/">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
 </div>
