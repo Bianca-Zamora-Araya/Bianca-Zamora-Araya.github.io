@@ -23,4 +23,4 @@ I created this website to dedicate a space on the Internet for my **teaching ass
 
 I hope anyone who stumbles upon this website finds utility in the material. Everything I know, I learnt it because someone invested their time to explain it to me in someway... now I enthusiastically invest my time in return! For knowledge is universal, and it helps us humans to understand the world that we experience :)
 
-If you find any mistakes on the material, please let me now at ```hola.bianca.zamora.araya@gmail.com```
+If you find any mistakes on the material, please let me know at `hola.bianca.zamora.araya@gmail.com`
