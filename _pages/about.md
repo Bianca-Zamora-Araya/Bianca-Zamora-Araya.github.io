@@ -21,6 +21,6 @@ About this website
 ---
 I created this website to dedicate a space on the Internet for my **teaching assistant material** and to share about interesting related topics. The different courses I have assisted had let me develop and gather many different problems, as well as their solutions. Thus, naturally I have elaborated selected studying material such as **worksheets & solutions** and **teaching videos** about *calculus & algebra* (all of them!), *physics* (mainly electromagnetism), *programming*, *scientific writing*, *software tutorials*, *problem solving*, and *concept explaining*— always making sure to show why these complicated ideas are uselful for humankind.
 
-I hope anyone who stumbles upon this website finds utility in the material. Everything I know, I learnt it because someone invested their time to explain it to me in someway... now I enthusiastically invest my time in return! For knowledge is universal, and it helps us humans to understand the world that we experience :)
+I hope anyone who stumbles upon this website finds utility in the material! Everything I know, I learnt it because someone invested their time to explain it to me in someway... now I enthusiastically invest my time in return :) *For knowledge is universal, and it helps us humans to understand the world that we experience.*
 
 If you find any mistakes on the material, please let me know at `hola.bianca.zamora.araya@gmail.com`
