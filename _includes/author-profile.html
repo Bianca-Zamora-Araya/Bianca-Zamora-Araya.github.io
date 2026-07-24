@@ -42,12 +42,21 @@
              {{ author.employer }}
           </a>
       </li> -->
-      <li class="author__desktop" style="white-space: nowrap;">
+      <!-- <li class="author__desktop" style="white-space: nowrap;">
           <img src="{{ '/images/logos/uchile.jpg' | relative_url }}" 
                alt="Escudo Universidad de Chile" 
                style="display: inline-block; width: 1em; height: auto; vertical-align: middle; margin-right: 0.3em;">
           <a href="{{ author.employer_url }}" target="_blank" rel="noopener" 
              style="display: inline; vertical-align: middle;">
+             {{ author.employer }}
+          </a>
+      </li> -->
+      <li class="author__desktop" style="display: flex; align-items: center; gap: 0.4em; padding-left: 0.5em;">
+          <img src="{{ '/images/logos/uchile.jpg' | relative_url }}" 
+               alt="Escudo Universidad de Chile" 
+               style="display: inline-block; width: 0.9em; height: auto; flex-shrink: 0;">
+          <a href="{{ author.employer_url }}" target="_blank" rel="noopener" 
+             style="display: inline-block; line-height: 1.5; vertical-align: middle;">
              {{ author.employer }}
           </a>
       </li>
