@@ -59,7 +59,6 @@ author:
   artstation       : # Username
   bluesky          : # Username
   facebook         : # Username
-  flickr           : bianca_zamora_araya
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
@@ -81,6 +80,7 @@ author:
   xing             : # Username
   youtube          : biancazamoraaraya
   zhihu            : # Username
+  flickr           : bianca_zamora_araya
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
