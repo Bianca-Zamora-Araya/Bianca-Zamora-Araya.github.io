@@ -15,7 +15,7 @@ In addition to my student and teaching assistant roles, I have actively particip
 
 A little bit more about me
 ---
-I enjoy playing sports (it doesn't mean I'm good at it lol) such as basketball and tenis, but I can redeem myself better at a trekking, during taekwondo, or playing Mario Kart— yup, I'm a Nintendo geek :) I also really enjoy listening to music, specially shoegaze/rock/synthpop genres. Lately, I've been hovering to photography with a classical digicam and am slowly diving into the analogic world.
+I enjoy playing sports (it doesn't mean I'm good at it lol) such as basketball and tenis, but I can redeem myself better at a trekking, during taekwondo, or playing Mario Kart— yup, I'm a Nintendo geek :) I also really enjoy listening to music, specially shoegaze/rock/synthpop genres. Lately, I've been hovering to photography with a classical digicam and am slowly diving into the analogic scene.
 
 About this website
 ---
