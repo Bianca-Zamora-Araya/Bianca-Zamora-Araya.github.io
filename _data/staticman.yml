@@ -1,1 +1,11 @@
-
+comments:
+  allowedFields: ["name", "email", "message"]
+  branch: "main"
+  commitMessage: "Nuevo comentario de {fields.name}"
+  filename: "comment-{@timestamp}"
+  format: "yaml"
+  moderation: false
+  path: "_data/comments/{options.slug}"
+  requiredFields: ["name", "email", "message"]
+  transforms:
+    email: "md5"
