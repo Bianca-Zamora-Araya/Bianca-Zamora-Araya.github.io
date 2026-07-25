@@ -27,6 +27,5 @@ I hope anyone who stumbles upon this website finds utility in the material! Ever
 
 If you find any mistakes on the material, please let me know at `hola.bianca.zamora.araya@gmail.com`
 
-<div id="sfcu5pqxx4pq3gq3hedzmaakajg9r8wjtxw"></div>
-<script type="text/javascript" src="https://counter1.optistats.ovh/private/counter.js?c=u5pqxx4pq3gq3hedzmaakajg9r8wjtxw&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=u5pqxx4pq3gq3hedzmaakajg9r8wjtxw" border="0" title="hit counter" alt="hit counter"></a></noscript>
+<a href='https://free-hit-counters.net/'>FREE Hit Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=77a2ff9d4cbad64d8e622b72976c07cf43da2bb8'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1604885/t/5"></script>
