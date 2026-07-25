@@ -25,7 +25,7 @@ I created this website to dedicate a space on the Internet for my **teaching ass
 
 I hope anyone who stumbles upon this website finds utility in the material! Everything I know, I learnt it because someone invested their time to explain it to me in someway... now I enthusiastically invest my time in return :) *For knowledge is universal, and it helps us humans to understand the world that we experience.*
 
-If you find any mistakes on the material, please let me know at `hola.bianca.zamora.araya@gmail.com`!
+If you find any mistakes on the material, please let me know at `hola.bianca.zamora.araya@gmail.com` or at `bianca.zamora@ug.uchile.cl`.
 
 <a href='https://free-hit-counters.net/'>FREE Hit Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=77a2ff9d4cbad64d8e622b72976c07cf43da2bb8'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1604885/t/5"></script>
