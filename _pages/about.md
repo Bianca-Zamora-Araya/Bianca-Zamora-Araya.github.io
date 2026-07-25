@@ -26,3 +26,7 @@ I created this website to dedicate a space on the Internet for my **teaching ass
 I hope anyone who stumbles upon this website finds utility in the material! Everything I know, I learnt it because someone invested their time to explain it to me in someway... now I enthusiastically invest my time in return :) *For knowledge is universal, and it helps us humans to understand the world that we experience.*
 
 If you find any mistakes on the material, please let me know at `hola.bianca.zamora.araya@gmail.com`
+
+<div id="sfcu5pqxx4pq3gq3hedzmaakajg9r8wjtxw"></div>
+<script type="text/javascript" src="https://counter1.optistats.ovh/private/counter.js?c=u5pqxx4pq3gq3hedzmaakajg9r8wjtxw&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=u5pqxx4pq3gq3hedzmaakajg9r8wjtxw" border="0" title="hit counter" alt="hit counter"></a></noscript>
