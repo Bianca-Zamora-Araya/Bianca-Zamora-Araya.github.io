@@ -10,13 +10,18 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
+
+* **B.Sc. in Electrical Engineering, University of Chile, 2028** (expected)
+* **B.Sc. in Matematical Engineering, University of Chile, 2028** (expected)
+* **B.Sc. Engineering Sciences, University of Chile, 2022-2023**
+
+* 2nd Winter School on Artificial Intelligence Applied to Health (2026), Science and Technology Building, San Joaquín Campus, Pontificia Universidad Católica de Chile. Organized by Millenium Institute for Intelligent Healthcare Engineering (iHealth).
+* Basic Bioinformatics Workshop and its applications in the genome assembly of non-model species (2023), Faculty of Physical and Mathematical Sciences, University of Chile. Supported by the Chilean Society of Genetics (SOCHIGEN), the Pontifical Catholic University of Chile (PUC), and centers of the ANID Millennium Science Initiative (CRG, LiLi, BASE).
 
 Work experience
 ======
+* **Intern - Coordinador Eléctrico Nac
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -41,12 +46,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -58,7 +57,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Interviews, Press Mentions and Social Media Appearences
+=====
+{% for post in site.media reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
