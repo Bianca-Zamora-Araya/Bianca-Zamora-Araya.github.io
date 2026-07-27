@@ -20,8 +20,13 @@ Education
 * Basic Bioinformatics Workshop and its applications in the genome assembly of non-model species (2023), Faculty of Physical and Mathematical Sciences, University of Chile. Supported by the Chilean Society of Genetics (SOCHIGEN), the Pontifical Catholic University of Chile (PUC), and centers of the ANID Millennium Science Initiative (CRG, LiLi, BASE).
 
 Work experience
-======
-* **Intern - Coordinador Eléctrico Nac
+---
+* **(Dec/2025 - Jan/2025) Intern - National Electrical Coordinator**
+  * Worked at the Assets and Technical Information Department.
+  * Developed a fine-tuned computer vision model to identify technical specifications from high-voltage tower structural drawings.
+  * 
+  * Used Python (pandas, Scikit-learn, OpenAI, os, sys) and Excel. 
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -46,11 +51,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -58,8 +59,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
 Interviews, Press Mentions and Social Media Appearences
 =====
-{% for post in site.media reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
+  {% for post in site.media reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
