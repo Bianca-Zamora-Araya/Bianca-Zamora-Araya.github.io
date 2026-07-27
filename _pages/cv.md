@@ -78,3 +78,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+<a href='http://www.freevisitorcounters.com'>on Freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=768485d21281e2ceb826d73b6865c715f820acc1'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1605494/t/5"></script>
+
