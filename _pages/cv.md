@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ---
-
 * **B.Sc. in Electrical Engineering, University of Chile, 2028** (expected)
 * **B.Sc. in Matematical Engineering, University of Chile, 2028** (expected)
 * **B.Sc. Engineering Sciences, University of Chile, 2022-2023**
@@ -21,16 +20,18 @@ Education
 
 Work experience
 ---
-* **(Dec/2025 - Jan/2025) Intern - National Electrical Coordinator**
+* **(Dec/2025 - Jan/2026) Intern - National Electrical Coordinator (CEN)**
   * Worked at the Assets and Technical Information Department.
   * Developed a fine-tuned computer vision model to identify technical specifications from high-voltage tower structural drawings.
-  * 
-  * Used Python (pandas, Scikit-learn, OpenAI, os, sys) and Excel. 
+  * Designed a request-counter script for tracking submissions sent to the Department.
+  * Used Python (pandas, Scikit-learn, OpenAI, os, sys) and Excel.
+  * Supervisors: [Víctor Álvarez Catalán](https://www.linkedin.com/in/víctor-álvarez-0bb846287/) (Head of Department) & [Gonzalo Maurel](https://www.linkedin.com/in/gonmaes/) (Department Engineer)
 
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* **(Dec/2024 - Jan/2025) Intern - Center for Mathematical Modelling (CMM)**
+  * worked at the Digital Health stream.
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Use
+  * Supervisors: [Gloria Henriquez Díaz](https://www.linkedin.com/in/gloriahenriquez/) (Digitial Health stream researcher) & [Héctor Ramírez](https://www.linkedin.com/in/hector-ramirez-8bb2674/) (CMM Director)
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -59,14 +60,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Interviews, Press Mentions and Social Media Appearences
+=====
+  {% for post in site.media reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Interviews, Press Mentions and Social Media Appearences
-=====
-  {% for post in site.media reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
