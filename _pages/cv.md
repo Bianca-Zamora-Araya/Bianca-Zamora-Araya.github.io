@@ -12,15 +12,25 @@ redirect_from:
 Education
 ===
 
+---
+
 * **B.Sc. in Electrical Engineering, University of Chile, 2028** (expected)
 * **B.Sc. in Matematical Engineering, University of Chile, 2028** (expected)
 * **B.Sc. Engineering Sciences, University of Chile, 2022-2023**
 
+---
+
 * 2nd Winter School on Artificial Intelligence Applied to Health (2026), Science and Technology Building, San Joaquín Campus, Pontificia Universidad Católica de Chile. Organized by Millenium Institute for Intelligent Healthcare Engineering (iHealth).
 * Basic Bioinformatics Workshop and its applications in the genome assembly of non-model species (2023), Faculty of Physical and Mathematical Sciences, University of Chile. Supported by the Chilean Society of Genetics (SOCHIGEN), the Pontifical Catholic University of Chile (PUC), and centers of the ANID Millennium Science Initiative (CRG, LiLi, BASE).
 
+---
+
+
+
 Work experience
 ===
+
+---
 
 * **Dec/2025 - Jan/2026: Intern - National Electrical Coordinator (CEN)**
   * Worked at the Assets and Technical Information Department.
@@ -53,13 +63,25 @@ Work experience
   * Funded by [Department of Physics](https://dfi.uchile.cl/) & [A2IC](https://a2ic.ing.uchile.cl/qui%C3%A9nes-somos) (in collaboration with [Audiovisual Production Center](https://a2ic.ing.uchile.cl/centro-de-producci%C3%B3n-audiovisual)), University of Chile.
 * **Led teaching innovation projects** in Electromagnetism & Modern Physics: designed labs, guides, and digital assessments ([EOL UChile](https://eol.uchile.cl/)) with interdisciplinary teams.
 * **Produced audiovisual content** (videos, animations, interactive resources) integrating digital tools and active learning into engineering physics courses.
+* Worked with: Macarena Muñoz & Domenico Sapone.
 
 ---
 
 * **Oct/2022 - present: Outreach Student Assistant - FCFM - University of Chile**
 * Organized and participated in **academic outreach**, **career fairs**, and **extension programs** for high school and university students.
 * **Managed social media and digital content** (Instagram, Canva, Adobe Premiere) to boost program visibility.
-* Led event operations for large student activities (**[Escuela de Verano](https://www.edv.uchile.cl/#)**, **[School Outreach/Difusión a Colegios](https://www.instagram.com/ingenieria_ciencias_uchile)**, **[Electrotutores](https://cl.linkedin.com/company/electrotutores)**, **[Tienda Beauchef](https://tiendabeauchef.ing.uchile.cl/)**), coordinating logistics and public attendance.
+* **Led event operations** for large student activities (**[Escuela de Verano](https://www.edv.uchile.cl/#)**, **[School Outreach/Difusión a Colegios](https://www.instagram.com/ingenieria_ciencias_uchile)**, **[Electrotutores](https://cl.linkedin.com/company/electrotutores)**, **[Tienda Beauchef](https://tiendabeauchef.ing.uchile.cl/)**), coordinating logistics and public attendance.
+* Supervisors: Camila Aravena Ruiz, Javier, Andrés Caba & Sergio.
+
+---
+
+* **Oct/2022 - present: Lab Satff - Electronics Laboratory - University of Chile**
+
+* Supervisor: Karina Ávila.
+
+---
+
+
 
 Skills
 ===
@@ -74,20 +96,36 @@ Skills
   
 Teaching
 ======
+
+---
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
+    <hr>
   {% endfor %}</ul>
 
-Interviews, Press Mentions and Social Media Appearences
-=====
-  <ul>{% for post in site.media reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
 Talks
-======
+===
+
+---
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
+    <hr>
+  {% endfor %}</ul>
+
+
+
+Interviews, Press Mentions and Social Media Appearences
+===
+
+---
+
+  <ul>{% for post in site.media reversed %}
+    {% include archive-single-cv.html %}
+    <hr>
   {% endfor %}</ul>
 
 <a href='http://www.freevisitorcounters.com'>on Freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=768485d21281e2ceb826d73b6865c715f820acc1'></script>
