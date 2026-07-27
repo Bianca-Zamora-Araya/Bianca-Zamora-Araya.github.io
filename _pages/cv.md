@@ -50,7 +50,7 @@ Work experience
 ---
   
 Skills
-======
+===
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -68,9 +68,9 @@ Teaching
 
 Interviews, Press Mentions and Social Media Appearences
 =====
-  {% for post in site.media reversed %}
+  <ul>{% for post in site.media reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
 
 Talks
 ======
