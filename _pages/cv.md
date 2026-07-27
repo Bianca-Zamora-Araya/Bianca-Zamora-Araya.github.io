@@ -22,15 +22,16 @@ Work experience
 ---
 * **(Dec/2025 - Jan/2026) Intern - National Electrical Coordinator (CEN)**
   * Worked at the Assets and Technical Information Department.
-  * Developed a fine-tuned computer vision model to identify technical specifications from high-voltage tower structural drawings.
-  * Designed a request-counter script for tracking submissions sent to the Department.
-  * Used Python (pandas, Scikit-learn, OpenAI, os, sys) and Excel.
+    * **Vision fine-tuning implementation**: Used Python (Pandas, Scikit-learn, OpenAI API, Seaborn, OS, SYS, Base64, Random) to fine-tune an AI computer vision model to identify technical specifications from high-voltage tower structural drawings.
+    * **Data base creation**: Used Excel to develop a data base of high-voltage tower structural drawings and their technical data.
+    * **Request-counter script design**: Used Python and Excel Designed a request-counter script for tracking submissions sent to the Department.
   * Supervisors: [Víctor Álvarez Catalán](https://www.linkedin.com/in/víctor-álvarez-0bb846287/) (Head of Department) & [Gonzalo Maurel](https://www.linkedin.com/in/gonmaes/) (Department Engineer)
 
 * **(Dec/2024 - Jan/2025) Intern - Center for Mathematical Modelling (CMM)**
-  * worked at the Digital Health stream.
-  * Duties includes: Updates and improvements to template
-  * Use
+  * Worked at the Digital Health stream.
+    * **Pre- and post-immunization scenario analysis**: Evaluated the impact of Nirsevimab against RSV in Chilean children within the framework of FONDEF project ID23I10423.
+    * **Time-series data processing & analysis**: Used Python (Pandas, NumPy, SciPy, Matplotlib) to process epidemiological data, generate visualizations, and perform statistical tests.
+    * **Epidemiological modeling**: Implemented SIR models using Runge-Kutta 45 (RK45) numerical methods and quasi-Newton optimization to forecast pediatric hospitalization trends.
   * Supervisors: [Gloria Henriquez Díaz](https://www.linkedin.com/in/gloriahenriquez/) (Digitial Health stream researcher) & [Héctor Ramírez](https://www.linkedin.com/in/hector-ramirez-8bb2674/) (CMM Director)
 
 * Fall 2015: Research Assistant
