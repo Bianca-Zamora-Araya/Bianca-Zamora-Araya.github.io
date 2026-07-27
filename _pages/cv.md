@@ -48,7 +48,11 @@ Work experience
 * **Led teaching innovation projects** in Electromagnetism & Modern Physics: designed labs, guides, and digital assessments ([EOL UChile](https://eol.uchile.cl/)) with interdisciplinary teams.
 * **Produced audiovisual content** (videos, animations, interactive resources) integrating digital tools and active learning into engineering physics courses.
 ---
-  
+* **Oct/2022 - present: Outreach Student Assistant - FCFM - University of Chile**
+* Organized and participated in **academic outreach**, **career fairs**, and **extension programs** for high school and university students.
+* **Managed social media and digital content** (Instagram, Canva, Adobe Premiere) to boost program visibility.
+* Led event operations for large student activities (**[Escuela de Verano](https://www.edv.uchile.cl/#)**, **[School Outreach/Difusión a Colegios](https://www.instagram.com/ingenieria_ciencias_uchile)**, **[Electrotutores](https://cl.linkedin.com/company/electrotutores)**, **[Tienda Beauchef](https://tiendabeauchef.ing.uchile.cl/)**), coordinating logistics and public attendance.
+
 Skills
 ===
 * Skill 1
