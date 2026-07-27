@@ -71,13 +71,18 @@ Work experience
 * Organized and participated in **academic outreach**, **career fairs**, and **extension programs** for high school and university students.
 * **Managed social media and digital content** (Instagram, Canva, Adobe Premiere) to boost program visibility.
 * **Led event operations** for large student activities (**[Escuela de Verano](https://www.edv.uchile.cl/#)**, **[School Outreach/Difusión a Colegios](https://www.instagram.com/ingenieria_ciencias_uchile)**, **[Electrotutores](https://cl.linkedin.com/company/electrotutores)**, **[Tienda Beauchef](https://tiendabeauchef.ing.uchile.cl/)**), coordinating logistics and public attendance.
-* Supervisors: Camila Aravena Ruiz, Javier, Andrés Caba & Sergio.
+* Supervisors:
+  * [Camila Aravena Ruiz](https://linkedin.com/in/camila-aravena-ruiz-ba7ba8141/) (Deputy Director of School Outreach and Early Education, External Engagement Office, University of Chile)
+  * [Javier Muñoz Carvajal](https://www.linkedin.com/in/javier-mu%C3%B1oz-carvajal-102662162/, University of Chile)
+  * [Andrés Caba](https://www.linkedin.com/in/andr%C3%A9s-caba-09767721/) (Head of Academic Studies, Electrical Engineering Department, University of Chile)
+  * [Sergio Castillo Jara](https://linkedin.com/in/sergio-castillo-jara/) (Deputy Director of Management and Administration, External Engagement Office, University of Chile)
+  * [Martin Schaub Espinosa](linkedin.com/in/martin-schaub-espinosa-998b31120/) (Head of the Admissions and Academic Records Unit, University of Chile)
 
 ---
 
 * **Oct/2022 - present: Lab Satff - Electronics Laboratory - University of Chile**
-
-* Supervisor: Karina Ávila.
+* Support the management of the electronics inventory.
+* Supervisor: [Karina Ávila Mesías](https://www.linkedin.com/in/kavilam/) (Electrotechnologies Head Coordinator, University of Chile).
 
 ---
 
